@@ -17,8 +17,7 @@ int main(int args, char *argv[])
 	
 	username = argv[1];
 
-	/*Vines*/
-
+	printf("%s \n", "Hello World!");
 	
 
 	return 0;
